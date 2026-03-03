@@ -212,7 +212,10 @@ start()
 - `ElAFilesCard` - 文件预览
 - `useFileOperation` - 文件操作 Hook
 
-**详细文档**：查看 [references/file-upload.md](./references/file-upload.md)
+**详细文档**：
+- [references/file-upload.md](./references/file-upload.md) - 文件上传组件概览
+- [references/drag-upload.md](./references/drag-upload.md) - ElADragUpload 详细文档
+- [references/files-card.md](./references/files-card.md) - ElAFilesCard 详细文档
 
 ### 9. ElACodeHighlight - 代码高亮
 
@@ -336,7 +339,9 @@ const fileList = ref<FilesUploadItem[]>([])
 - **[references/thinking.md](./references/thinking.md)** - ElAThinking 完整文档
 - **[references/thought-chain.md](./references/thought-chain.md)** - ElAThoughtChain 完整文档
 - **[references/typewriter.md](./references/typewriter.md)** - 打字机效果文档
-- **[references/file-upload.md](./references/file-upload.md)** - 文件上传组件文档
+- **[references/file-upload.md](./references/file-upload.md)** - 文件上传组件概览
+- **[references/drag-upload.md](./references/drag-upload.md)** - ElADragUpload 完整文档
+- **[references/files-card.md](./references/files-card.md)** - ElAFilesCard 完整文档
 - **[references/code-highlight.md](./references/code-highlight.md)** - ElACodeHighlight 完整文档
 - **[references/code-mermaid.md](./references/code-mermaid.md)** - ElACodeMermaid 完整文档
 - **[references/overflow-toolbar.md](./references/overflow-toolbar.md)** - ElAOverflowToolbar 完整文档
