@@ -1,3 +1,4 @@
 [submodule "element-ai-vue"]
 	path = element-ai-vue
 	url = https://github.com/1365436742/element-ai-vue
+	branch = main
